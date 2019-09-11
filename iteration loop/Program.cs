@@ -11,7 +11,7 @@ namespace iteration_loop
             int i=0;
             while(i < a){
 
-                Console.WriteLine("You have {0} years of experinece", a);
+                Console.WriteLine("You have {0} years of experinece", i);
                 i++;
 
             }
